@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+
+# Build output
+dist/
+build/
+.vite/
+
+# Local environment files
+.env
+
+
+
+
